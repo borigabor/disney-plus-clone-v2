@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    color: white;
+    background-color: #040714;
+    overflow-x: hidden;
+}
+
+a{
+    list-style: none;
+    color: white;
+}
